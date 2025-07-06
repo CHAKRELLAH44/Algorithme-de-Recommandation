@@ -79,3 +79,4 @@ Pour tester la robustesse et la généralisation de l’algorithme de recommanda
 - `images/` : captures d’écran
 - `requirements.txt` : dépendances Python
 
+##✨ Made with 💻 by JOSKA
